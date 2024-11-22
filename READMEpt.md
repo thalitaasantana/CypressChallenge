@@ -56,5 +56,4 @@ OBS2:. No Chrome estava ocorrendo uma falha na comunicação com o Backtrace e, 
 
 1. Tem que existir ou criar um arquivo workflow (yaml), onde ele vai instalar e configurar as dependências.
 2. Garanta que o arquivo package.json tenha as dependências necessárias.
-3. Quando houver pull ou push da IDE para o github, o Github Actions acionará o arquivo workflow automaticamente e executar os testes que estiverem escritos nele.
-4. Ao dar o comando push
+3. Quando houver push da IDE para o github, o Github Actions acionará o arquivo workflow automaticamente e executar os testes que estiverem escritos nele.
