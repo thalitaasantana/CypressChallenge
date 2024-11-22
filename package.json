@@ -1,0 +1,15 @@
+{
+  "name": "cypresschallenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thalita Sant ana",
+  "license": "ISC",
+  "description": "Technical Challenge",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
